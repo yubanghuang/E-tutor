@@ -11,7 +11,7 @@
 針對每一組測試案例，輸出待測物品中有多少個可以被正確秤重，每組測試案例輸出一列。
 
 ##  範例
-Sample Input:
+Sample Input:  
 2  
 2 5  
 3 5  
@@ -20,6 +20,6 @@ Sample Input:
 2 5 2  
 20 1 2 4 9  
 
-Sample Output:
+Sample Output:  
 2  
 3  
