@@ -13,8 +13,8 @@ int main()
                 dp[i][j] = 0;
             else
                 dp[i][j] = dp[i][j - 1] + dp[i - 1][j];
-    while (cin >> a >> b)
-    {
+    char c;
+    while (cin >> a >> c >> b)
         cout << dp[a][b] << endl;
-    }
+
 }
