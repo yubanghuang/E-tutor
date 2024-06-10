@@ -13,7 +13,7 @@ int func(int m, int n)
 
 int main()
 {
-    std::fill(dp[0],dp[0]+300*300,-1);
+    std::fill(dp[0],dp[0]+300*300,-1); 
     int m, n;
     while (std::cin >> m >> n)
         std::cout << func(m, n) << std::endl;
