@@ -19,9 +19,9 @@ void backtracking(vector<string>&maze,int row ,int col)
             backtracking(maze,row,col+1);
         if(maze[row+1][col] == '0' && !findexit)
             backtracking(maze,row+1,col);
-        if(maze[row][col-1] == '0' && !findexit)
-            backtracking(maze,row-1,col);
         if(maze[row-1][col] == '0' && !findexit)
+            backtracking(maze,row-1,col);
+        if(maze[row][col-1] == '0' && !findexit)
             backtracking(maze,row,col-1);
         if(!findexit) maze[row][col] = '0';
     }

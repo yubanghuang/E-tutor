@@ -40,7 +40,7 @@ int main()
         // len從最大長度max_len-1開始，找出在LIS中長度 == len 且 在數列 v 中比前一個數還小的數字的index
         // ex. v[4] = {6,-5,4,-3,2}
         // LIS 中長度為 3 的有 v[4]
-        // LIS 中長度為 2 的有 v[2] , v[3] -> 因為 v[2] > v[4] 所以 ans[2] = 3 (LIS長度為 2 且 在 v 中第3個位置的數字) 
+        // LIS 中長度為 2 的有 v[2] , v[3] -> 因為 v[2] > v[4] 所以 ans[2] = 3 (LIS中長度為 2 且 在 v 中第3個位置的數字) 
         for(int len=max_len-1;len>=1;len--)
             for(int i=ans[len+1]-1;i>=0;i--)
                 if(LIS[i] == len)
