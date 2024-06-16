@@ -57,7 +57,7 @@ void printarray(int arr[],int len,bool reverse=false)
 void heap_sort(int arr[], int len) 
 {
     for(int n = 2;n<=len;n++)
-        for(int i=n/2-1; i>=0; i--)
+        for(int i=n/2-1; i>=0; i--) // 從最後一個父節點開始
             min_heapify(arr,i,n);
     printarray(arr,len);
     for (int i = len - 1; i > 0; i--)

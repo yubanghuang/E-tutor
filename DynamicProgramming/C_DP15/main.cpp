@@ -8,7 +8,6 @@ int a, b, c;
 double Sum;
 void dfs(int n1, int n2, int n3, double rw,double sum)
 {
-
     int t[3] = { 0 };
     t[0] = 1;
     for (int i = 0; i < 3; i++)
@@ -30,6 +29,9 @@ int main()
     {
         Sum = 0;
         dfs(0, 0, 0, W, 0);
-        std::cout << std::fixed << std::setprecision(3) << a << " " << b << " " << c << " " << Sum << std::endl;
+        if (Sum)
+            std::cout << std::fixed << std::setprecision(3) << a << " " << b << " " << c << " " << Sum << std::endl;
+        else
+            std::cout << std::fixed << std::setprecision(3) << Sum << std::endl;
     }
 }
