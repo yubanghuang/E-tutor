@@ -7,4 +7,4 @@
 
 
 ## 執行結果
-![](.\C_BT05_result.jpg)
+![](/BackTracking/C_BT05/C_BT05_result.jpg)
