@@ -4,3 +4,7 @@
 - Sort
    - Heap Tree 中 Root 為最小值
    - Root 每次都會和已經排序好的元素的前一個元素做交換，然後做 Heapify。
+
+
+## 執行結果
+![](.\C_BT05_result.jpg)
