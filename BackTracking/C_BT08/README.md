@@ -1,4 +1,4 @@
 # **[C_BT08-中] 迷宮路徑**
 
 ## 執行結果
-![](/BackTracking/C_BT08/C_BT08_result.jpg)
+![](/BackTracking/result/C_BT08_result.jpg)

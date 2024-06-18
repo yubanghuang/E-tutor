@@ -3,4 +3,4 @@
 ## 解題
 
 ## 執行結果
-![](.\C_DP11_result.jpg)
+![](/DynamicProgramming/result/C_DP11_result.jpg)

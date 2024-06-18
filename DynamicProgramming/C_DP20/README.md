@@ -4,4 +4,4 @@
 - 公式給了，照著公式寫，建立DP表
 
 ## 執行結果
-![](.\C_DP20_result.jpg)
+![](/DynamicProgramming/result/C_DP20_result.jpg)

@@ -5,4 +5,4 @@
 - 有點像找零錢問題，只不過可以用的銅板面值有 1~N 。
 
 ## 執行結果
-![](.\C_GD16_result.jpg)
+![](/Greedy/result/C_GD16_result.jpg)

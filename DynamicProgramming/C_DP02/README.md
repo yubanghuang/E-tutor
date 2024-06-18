@@ -4,4 +4,4 @@
 - 如同0/1背包問題，每個砝碼只能用一次，每一個砝碼可以拿或不拿。
 
 ## 執行結果
-![](.\C_DP_02_result.jpg)
+![](/DynamicProgramming/result/C_DP02_result.jpg)

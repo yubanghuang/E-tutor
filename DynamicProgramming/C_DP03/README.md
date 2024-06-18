@@ -1,4 +1,4 @@
 # **[C_DP03-中] 細菌繁殖**
 
 ## 執行結果
-![](.\C_DP_03_result.jpg)
+![](/DynamicProgramming/result/C_DP03_result.jpg)

@@ -1,4 +1,4 @@
 # **[C_GD10-易] 整除的數字**
 
 ## 執行結果
-![](.\C_GD10_result.jpg)
+![](/Greedy/result/C_GD10_result.jpg)

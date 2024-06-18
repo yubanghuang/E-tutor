@@ -2,4 +2,4 @@
 
 
 ## 執行結果
-![](.\C_DP_04_result.jpg)
+![](/DynamicProgramming/result/C_DP04_result.jpg)

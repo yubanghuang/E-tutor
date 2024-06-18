@@ -5,4 +5,4 @@
 - ex. 第一個士兵顧第1、2、3位置，那另一個士兵則顧第4、5、6位置
 
 ## 執行結果
-![](.\C_GD01_result.jpg)
+![](/Greedy/result/C_GD01_result.jpg)
